@@ -1,5 +1,5 @@
     <footer class="footer">
-        CRUD PHP - MYSQL
+        CRUD S.O.II
     </footer>
 </body>
 </html>

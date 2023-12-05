@@ -3,12 +3,12 @@
 // Sample file: Never send your credentials to git
 
 // host
-$host = 'http://localhost/conteudos/crud-php-mysql-procedural/';
+$host = 'http://localhost/crud/';
 
 // db
-$db_name = 'crud';
+$db_name = 'crud_example';
 $db_host = 'localhost';
-$db_user = 'root';
+$db_user = 'francisco';
 $db_pass = '';
 
 try {
